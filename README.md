@@ -24,7 +24,7 @@ Atualmente estou com apenas um projeto, que é minha aplicação no Discord que 
 
 :camera: [Instagram](https://www.instagram.com/tiago.tia/)
 
-### :bell: Outros Links:
+### :bell: Outros Links: 
 ---
 
 :purple_heart: [Mizuhara](https://www.mizuhara.tk)
