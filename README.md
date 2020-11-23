@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/TiaGoiNsaNy/TiaGoiNsaNy/blob/main/tiagoinsanylogo.png">
+<br>
+
 :v: Iai meus consagrados, eu me chamo **Tiago** ou **Tia** para os mais intimus. E sou um pequeno programador nesse mundo virtual que se chama Internet. :heart:
 
 ### :pushpin: Um pouco da minha jornada na Internet:
