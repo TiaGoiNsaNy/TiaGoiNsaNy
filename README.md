@@ -20,7 +20,9 @@ Atualmente estou com apenas um projeto, que é minha aplicação no Discord que 
 
 :movie_camera: [YouTube](https://www.youtube.com/channel/UC8dFKTXqYCh4Iw8ez4ZzK0A)
 
-:bird: [Twitter](https://twitter.com/BotMizuhara)
+:bird: [Twitter @TiaGoiNsaNy](https://twitter.com/TiaGoiNsaNy)
+
+:bird: [Twitter @BotMizuhara](https://twitter.com/BotMizuhara)
 
 :camera: [Instagram](https://www.instagram.com/tiago.tia/)
 
@@ -29,7 +31,7 @@ Atualmente estou com apenas um projeto, que é minha aplicação no Discord que 
 
 :purple_heart: [Mizuhara](https://www.mizuhara.tk)
 
-:house: [Servidor no Discord](https://discord.gg/QraTZUq)
+:house: [Servidor no Discord](https://discord.gg/v2j2jNK3wa)
 
 :moneybag: [Doação](https://www.paypal.com/donate/?cmd=_donations&business=K4DA7PQ8N2NDY&item_name=Ajudar+a+melhorar+a+hospedagem+da+Mizuhara+Bot&currency_code=BRL)
 
