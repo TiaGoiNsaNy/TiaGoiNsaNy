@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/TiaGoiNsaNy/TiaGoiNsaNy/blob/main/tiagoinsanylogo.png">
+<img src="https://github.com/TiaGoiNsaNy/TiaGoiNsaNy/blob/main/tiagoinsany.png">
 <br>
 
 ---
@@ -40,10 +40,6 @@ Para entrar em contato, adicione ou envie uma mensagem na minha **DM** no usuár
 
 :link: **| LINKS QUE EU GOSTARIAS DE VER VOCÊ CLICAR:**
 
-[**:gem: • MizuharaBot:** A Melhor Aplicação para Servidores Discord!](https://www.mizuhara.tk/)
-
 [**:telephone_receiver: • Servidor de Suporte:** Suporte da MizuharaBot!](https://discord.gg/v2j2jNK3wa)
-
-[**:purple_heart: • Twitter BotMizuhara:** Twitter Oficial da MizuharaBot!](https://twitter.com/BotMizuhara)
 
 [**:wrench: • Twitter TiaGoiNsaNy:** Twitter Oficial do TiaGoiNsaNy!](https://twitter.com/TiaGoiNsaNy)
