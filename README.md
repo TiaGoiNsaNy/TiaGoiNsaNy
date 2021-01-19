@@ -35,7 +35,7 @@ Sim, e você pode pagar para eu desenvolver uma aplicação para o seu servidor,
 
 Para entrar em contato, adicione ou envie uma mensagem na minha **DM** no usuário **TiaGoiNsaNy#9903**, aceito apenas **PayPal** como modo de pagamento.
 Caso você queira apenas o **Código-Fonte** do projeto que você solicitou, eu irei fornecer o código com **50%** do preço padrão **100%** comentado e com **Licença AGPL-3.0**.
-Prazo de entrega no maximo em **14 dias uteis**.
+Prazo de entrega no maximo em **14 dias úteis**.
 
 ---
 
