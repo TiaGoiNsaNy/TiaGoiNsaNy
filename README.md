@@ -8,14 +8,15 @@
     <li>Sou Desenvolvedor de Bots para Discord. :robot:</li>
     <li>Tenho experiência em Photoshop. :star2:</li>
 </ul>
-
-<p align="left"> <a href="https://twitter.com/tiagoinsany" target="blank"><img src="https://img.shields.io/twitter/follow/tiagoinsany?logo=twitter&style=for-the-badge" alt="tiagoinsany" /></a> </p>
+<a href="https://discord.gg/GDy5Pmtbv3"><img src="https://img.shields.io/discord/816433178612989963?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a> 
+<a href="https://www.patreon.com/TiaGoiNsaNy"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a> 
+<a href="https://twitter.com/tiagoinsany"><img src="https://shields.io/twitter/follow/TiaGoiNsaNy?label=Follow" alt="tiagoinsany" /></a>
 
 <h3 align="left">:computer: <b>|</b> Conecções Atuais:</h3>
 <p align="left">
 <a href="https://twitter.com/tiagoinsany" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tiagoinsany" height="30" width="40" /></a>
 <a href="https://instagram.com/tiagoinsany" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tiagoinsany" height="30" width="40" /></a>
-<a href="https://discord.gg/syBGTmcJJq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/syBGTmcJJq" height="30" width="40" /></a>
+<a href="https://discord.gg/GDy5Pmtbv3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/GDy5Pmtbv3" height="30" width="40" /></a>
 </p>
 </p>
 
