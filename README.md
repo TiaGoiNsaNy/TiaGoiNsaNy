@@ -13,6 +13,8 @@
 <a href="https://twitter.com/tiagoinsany"><img src="https://shields.io/twitter/follow/TiaGoiNsaNy?label=Follow" alt="tiagoinsany" /></a>
 <a href="https://discord.com/users/568182075929395210"><img src="https://img.shields.io/badge/-@TiaGoiNsaNy%239903-8b0000?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
+![](https://discord.c99.nl/widget/theme-1/568182075929395210.png)
+
 <h3 align="left">:computer: <b>|</b> Conecções Atuais:</h3>
 <p align="left">
 <a href="https://twitter.com/tiagoinsany" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tiagoinsany" height="30" width="40" /></a>
