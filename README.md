@@ -28,4 +28,7 @@
 <a href="https://firebase.google.com/?hl=pt-br" target="_blank"> <img src="https://appmasters.io/static/firebase-logo-c24b6b9c0fcd84c7b258879880472660.png" alt="firebase" width="30"/> </a>  </p>
 
 <p align="left"><a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://hyper.is/" target="_blank"> <img src="https://raw.githubusercontent.com/zeit/art/master/hyper/mark/Hyper-Mark-120@3x.png" alt="hyper" width="40" height="40"/> </a> <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime" width="40" height="40"/> </a> <a href="http://notion.so/" target="_blank"> <img src="https://produtive.me/wp-content/uploads/2019/08/notion-logo-no-background.png" alt="notion" width="40" height="40"/> </a> <a href="https://insomnia.rest
-" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a></p>
+" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a>
+    <a href="https://www.youtube.com/watch?v=93g-1CC8F44" target="_blank"> <img src="https://static.wixstatic.com/media/2cd43b_1ccfe45b1147414abec8204d445b1e28~mv2.png/v1/fill/w_300,h_277,fp_0.50_0.50/2cd43b_1ccfe45b1147414abec8204d445b1e28~mv2.png" alt="cannabis" width="40" height="40"/> </a>
+
+</p>
