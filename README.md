@@ -9,7 +9,8 @@
     <li>Tenho experiência em Photoshop. :star2:</li>
 </ul>
 <a href="https://discord.gg/syBGTmcJJq"><img src="https://img.shields.io/discord/799477005627555890?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a> 
-<a href="https://www.patreon.com/TiaGoiNsaNy"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>  
+<a href="https://www.patreon.com/TiaGoiNsaNy"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a> 
+<a href="https://ko-fi.com/M4M54JVZN"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="160px" alt="Fo-fi" /></a>
 <a href="https://twitter.com/tiagoinsany"><img src="https://shields.io/twitter/follow/TiaGoiNsaNy?label=Follow" alt="tiagoinsany" /></a>
 <a href="https://discord.com/users/568182075929395210"><img src="https://img.shields.io/badge/-@TiaGoiNsaNy%239903-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
