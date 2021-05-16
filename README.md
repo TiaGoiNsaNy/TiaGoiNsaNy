@@ -32,3 +32,20 @@
 
 <p align="left"><a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://hyper.is/" target="_blank"> <img src="https://raw.githubusercontent.com/zeit/art/master/hyper/mark/Hyper-Mark-120@3x.png" alt="hyper" width="40" height="40"/> </a> <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime" width="40" height="40"/> </a> <a href="http://notion.so/" target="_blank"> <img src="https://produtive.me/wp-content/uploads/2019/08/notion-logo-no-background.png" alt="notion" width="40" height="40"/> </a> <a href="https://insomnia.rest
 " target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a></p>
+
+<details>
+    <summary>:clipboard: <b>| Objetivos para Completar antes dos 18 anos:</b></summary>
+    <h3>:computer: • Tecnologias:</h3>
+    <ul>
+        <li>[x] - JavaScript, HTML5, CSS3 e Node :desktop:</li>
+        <li>[x] - TypeScript :dagger:</li>
+        <li>[x] - EJS e SASS :art:</li>
+        <li>[x] - Firebase :fire:</li>
+        <li>[x] - MySQL 🐬</li>
+        <li>[ ] - MongoDB 🍃</li>
+        <li>[ ] - PostgreSQL 🐘</li>
+        <li>[ ] - Java ☕</li>
+        <li>[ ] - Melhor meu entendimento em POO - Programação Orientada a Objetos 📦</li>
+        <li>[ ] - Oracle 🗄️</li>
+    </ul>
+</details>
